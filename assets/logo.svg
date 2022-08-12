@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300.078" height="75" viewBox="0 0 284.078 75">
+  <g id="Group_1" data-name="Group 1" transform="translate(-50.922 -93.383)">
+    <text id="Chess_Timer" data-name="Chess Timer" transform="translate(110 147)" fill="#fff" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Chess Timer</tspan></text>
+    <path id="chess-pawn" d="M16.422,62H12.5A2.5,2.5,0,0,0,10,64.5v5A2.5,2.5,0,0,0,12.5,72H15v.858c0,6.875-.647,13.531-3.75,19.142h27.5C35.642,86.389,35,79.733,35,72.858V72h2.5A2.5,2.5,0,0,0,40,69.5v-5A2.5,2.5,0,0,0,37.5,62H33.578a16.25,16.25,0,1,0-17.156,0ZM47.5,97H2.5A2.5,2.5,0,0,0,0,99.5v5A2.5,2.5,0,0,0,2.5,107h45a2.5,2.5,0,0,0,2.5-2.5v-5A2.5,2.5,0,0,0,47.5,97Z" transform="translate(50.922 61.383)" fill="#fff"/>
+  </g>
+</svg>
